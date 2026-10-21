@@ -15,15 +15,12 @@ Requirements
 
 The program requires the following libraries:
 pip install numpy opencv-python mss keyboard psutil
-Use code with caution.
 How to Use
 Basic Usage
 python screen_recorder.py
-Use code with caution.
 Bash
 Additional Options
 python screen_recorder.py --buffer 120 --fps 15 --quality 95 --output /path/to/output/folder
-Use code with caution.
 Bash
 Where:
 --buffer: Buffer duration in seconds (default: 120).
